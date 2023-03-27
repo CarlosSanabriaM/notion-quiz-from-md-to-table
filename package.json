@@ -1,0 +1,19 @@
+{
+  "name": "notion-quiz-from-md-to-table",
+  "version": "1.0.0",
+  "description": "Transform a quiz in Notion Markdown format to a Notion table, to be able to export it as CSV and import it in Quizzizz.",
+  "main": "index.js",
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.1.1",
+    "dotenv": "^16.0.1"
+  },
+  "author": "Carlos Sanabria Miranda",
+  "license": "MIT"
+}

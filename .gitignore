@@ -1,0 +1,15 @@
+## Mac files ##
+.DS_Store
+
+## IDEA files ##
+*.idea
+
+## Log files ##
+*.log
+
+## NodeJS ##
+/node_modules
+package-lock.json
+
+## Configuration file ##
+.env

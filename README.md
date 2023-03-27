@@ -17,7 +17,7 @@ npm install
 
 ### 2. Set your environment variables in a `.env` file
 
-```sh
+```ini
 NOTION_KEY=<your-notion-api-key>
 NOTION_SOURCE_PAGE_ID=<your-notion-source-page-id>
 NOTION_DEST_DATABASE_ID=<your-notion-destination-database-id>

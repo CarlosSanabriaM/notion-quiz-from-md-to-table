@@ -1,6 +1,6 @@
 # Quiz from Notion Markdown to Notion table
 
-This script transforms a quiz in Notion Markdown format to a Notion table,
+This script transforms a quiz in Notion Markdown format to a Notion database,
 to be able to export it as CSV and import it in [Quizzizz](https://quizizz.com/).
 
 ## Running locally
